@@ -3,7 +3,7 @@ import { MdArrowDropUp } from "react-icons/md";
 
 const Banner = () => {
     return (
-        <div style={{ backgroundColor: '#FFF2E1' }} className="max-w-8xl mx-auto ">
+        <div style={{ backgroundColor: '#FFF2E1' }} className="max-w-full mx-auto ">
             <div className='lg:flex justify-between mx-20 '>
                 <div className='pt-5 lg:pt-40 '>
                     <h1  style={{ color: '#2F327D' }} className='text-5xl font-bold'> <span  style={{ color: '#F48C06' }}>Studying</span> Online is now <br /> much easier</h1>

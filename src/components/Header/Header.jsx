@@ -2,7 +2,7 @@ import { BiSolidSquare } from "react-icons/bi";
 
 const Header = () => {
     return (
-        <div style={{ backgroundColor: '#FFF2E1' }} className="max-w-8xl mx-auto">
+        <div style={{ backgroundColor: '#FFF2E1' }} className="max-w-full mx-auto">
             <div className="lg:flex justify-between items-center mx-20 py-10">
                 <div className="flex items-center">
                     <BiSolidSquare style={{ color: '#65DAFF' }} className="relative text-4xl rotate-45"></BiSolidSquare>
